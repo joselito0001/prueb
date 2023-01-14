@@ -1,0 +1,121 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="",21TV
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaHayKino
+http://ott-cdn.ucom.am/s22/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaJanTV
+http://ott-cdn.ucom.am/s42/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaPremiumo
+http://ott-cdn.ucom.am/s83/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaSinemaks
+http://ott-cdn.ucom.am/s66/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaTownTownik
+http://ott-cdn.ucom.am/s46/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ArmeniaTV
+http://ott-cdn.ucom.am/s4/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATVFilmzone
+http://ott-cdn.ucom.am/s48/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATVHayTV
+http://ott-cdn.ucom.am/s73/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATVKhaghaliqTV
+http://ott-cdn.ucom.am/s74/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATVKinoman
+http://ott-cdn.ucom.am/s94/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ATVTavaTV
+http://ott-cdn.ucom.am/s53/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",KentronTV
+http://ott-cdn.ucom.am/s5/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",NorHayastanTV
+http://ott-cdn.ucom.am/s12/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ShantTV
+http://ott-cdn.ucom.am/s3/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",ShoghakatTV
+http://ott-cdn.ucom.am/s13/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",YerkirMediaTV
+http://ott-cdn.ucom.am/s7/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1  group-title="",5-րդ ալիք (480p)
+http://ott-cdn.ucom.am/s6/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
+ 
+#EXTINF:-1 group-title="",Առաջին ալիք (1080p)
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+ 
+#EXTINF:-1 group-title="", espejo
+http://ott-cdn.ucom.am/s10/index.m3u8
