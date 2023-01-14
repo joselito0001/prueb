@@ -1,0 +1,154 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="", Conecta TV
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png
+ 
+#EXTINF:-1 group-title="", 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-qjB3qbIAv50/XzgmYBza-8I/AAAAAAAA4Zs/HJvLB653vUsZhdzVWpX1ClIAVV7P9KexQCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", 8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png
+ 
+#EXTINF:-1 group-title="", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+https://i2.paste.pics/fb661547262e362a034610ad74c17441.png
+ 
+#EXTINF:-1 group-title="", Canal 10 Cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/69bf76340322a596b235d69c0f189278.png
+ 
+#EXTINF:-1 group-title="", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/5b5b76f51f668dce9998af7d0aa25f28.png
+ 
+#EXTINF:-1 group-title="", Canal 15 Fresnillo
+https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/73bf2ba0c7165b00b73cf9c6a4755d84.png
+ 
+#EXTINF:-1 group-title="", Canal 28 Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/e5bf70a29f8a83310b1986ca1856b753.png
+ 
+#EXTINF:-1 group-title="", Canal 4 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png
+ 
+#EXTINF:-1 group-title="", Canal 7 SLP
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
+https://i2.paste.pics/0aa378a645e18c804d3b93c7925a098e.png
+ 
+#EXTINF:-1 group-title="", Central FM
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/fef2856c6b007814e9e9d7a9a34f9876.png
+ 
+#EXTINF:-1 group-title="", Impactovision
+https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-LPYRCJGmVtk/X9X9vaIBZzI/AAAAAAAA8KY/kG5yXTQUWjAN_kBNG-un_YF0MOyzCRAXgCK8BGAsYHg/s0/2020-12-13.webp
+ 
+#EXTINF:-1 group-title="", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png
+ 
+#EXTINF:-1 group-title="", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
+https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png
+ 
+#EXTINF:-1 group-title="", Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
+https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png
+ 
+#EXTINF:-1 group-title="", Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png
+ 
+#EXTINF:-1 group-title="", RCG 1 Saltillo
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png
+ 
+#EXTINF:-1 group-title="", RCG 2 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png
+ 
+#EXTINF:-1 group-title="", RCG 3 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png
+ 
+#EXTINF:-1 group-title="", RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png
+ 
+#EXTINF:-1 group-title="", SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png
+ 
+#EXTINF:-1 group-title="", Telemax Hermosillo
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png
+ 
+#EXTINF:-1 group-title="", Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/307d217de9a5ab9607a4dd57aba22599.png
+ 
+#EXTINF:-1 group-title="", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+https://i2.paste.pics/650655e93128d58811d51cd25e5453d5.png
+ 
+#EXTINF:-1 group-title="", Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+https://i2.paste.pics/2a17d47eaeaa1669aa46af0eab75ae94.png
+ 
+#EXTINF:-1 group-title="", Transmedia TV Morelia
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/b558d6fde606a2bf8105c2ba0134282d.png
+ 
+#EXTINF:-1 group-title="", TV Lobo
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/60758a2e7e05e1d602810166ed1420f4.png
+ 
+#EXTINF:-1 group-title="", TV4 Cultura
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/abd4e36156c4598d754086b6f2dee2c9.png
+ 
+#EXTINF:-1 group-title="", TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png
+ 
+#EXTINF:-1 group-title="", TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png
+ 
+#EXTINF:-1 group-title="", TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png
+ 
+#EXTINF:-1 group-title="", TVP Obregon
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png
+ 
+#EXTINF:-1 group-title="", UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/f67fad1f4bbfcb3e312c2211a903bd4e.png
+ 
+#EXTINF:-1 group-title="", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png
+ 
+#EXTINF:-1 group-title="", Canal 66
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/91fbbc0dc73a1f2677e3e80e1368f34d.png
+ 
+#EXTINF:-1 group-title="", Alcance TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png
+ 
+#EXTINF:-1 group-title="", Golden TV [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png
+ 
+#EXTINF:-1  group-title="",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
+https://i.imgur.com/UzwlCzP.png
+ 
