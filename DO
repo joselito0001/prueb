@@ -1,0 +1,161 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="", Hits 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png
+ 
+#EXTINF:-1, group-title="", TV Exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png
+ 
+#EXTINF:-1 group-title="", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png
+ 
+#EXTINF:-1 group-title="", La Fe Mueve Montanas 
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png
+ 
+#EXTINF:-1 group-title="", RVida TV
+https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-KPTLLv1OcWA/YE1NaFb6S-I/AAAAAAABAm8/Kpbp9gx0m8wvFaeCpa-e5QjivRb3u6zdwCK8BGAsYHg/s512/2021-03-13.png
+ 
+#EXTINF:-1 group-title="", Urbancris TV
+https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png
+ 
+#EXTINF:-1 group-title="", Urbancrist2 Worship
+https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-DqCASDFb1BA/YE1UxfihGbI/AAAAAAABAoE/bK1rgKUWLvM3DNRKfj9CXfbSBX3HykNzgCK8BGAsYHg/s512/2021-03-13.png
+ 
+#EXTINF:-1 group-title="", Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-Zf12E_etz2s/XzgSxNz29WI/AAAAAAAA4SA/Zk-IT4kK35QR3dV8TxsfupU1F3_xt_x3ACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Boreal Televisión | DO
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-Q9q-hnFHaIU/XzgVCi0a_rI/AAAAAAAA4S4/mCk6OVexIlkz1tfvcy6qmLXCmrnphw56ACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Canal 8 Punta Cana TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png
+ 
+#EXTINF:-1 group-title="", Canal4RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/270d88fdeeb91464b3e6f884d4c2f998.png
+ 
+#EXTINF:-1 group-title="", Cinevision Canal 19
+https://live.teledom.info:3713/live/cinevisionlive.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-8cq3avHwbSM/XzgVnYNlfOI/AAAAAAAA4TM/gZAH2-w2NlgRL4tDfvCSh0Fq6Fu3od52QCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Farovision
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-uim4E6l-Qno/XzgV0SohEtI/AAAAAAAA4TY/Kyj2EYmEWsgOf-9yObXMrT5G4uXkxdMMgCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Fuego TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", GH Television
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-nb3HIODiLDM/XzgWLtnp3XI/AAAAAAAA4Tk/8UEOEhd2HZw5wBMZT_eNNABGpW9c2w65gCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Guaymate TV
+https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/e1912e52824441114ab8284cd39fb40b.png
+ 
+#EXTINF:-1 group-title="", Hilando Fino
+https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Megavision
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-J9MpGmEaVwk/XzgWd2PEeVI/AAAAAAAA4Ts/gsReFcO99xIi9t25aMDUhMOVFdaj5jBTgCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Nitida TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
+https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png
+ 
+#EXTINF:-1 group-title="", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Tele Oriental Digital
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-jvt2C0d_DYM/YIq06KhkcJI/AAAAAAABCCw/3ZNdoHf54jYj--ERKwrY3AtOLc6PNtwXACK8BGAsYHg/s512/2021-04-29.png"
+ 
+#EXTINF:-1 group-title="", Telecanal 12
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-mLk3w8rRy2E/XzgcBFkX40I/AAAAAAAA4VE/Woxy8sdQnTcUkC2ZBbv_6pBvjL6oY2xzACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-KHspoxJrbmA/Xzgces4V4PI/AAAAAAAA4VY/1vwbHhjTS5EV8JmV5EXQm2giqFCUaPlBQCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Telenord 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Telenovisa 43
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-tLCdv43ZkBI/XzgUt_3YhGI/AAAAAAAA4Sk/WOe41jACpdgEDDLGXMz7qNstxIBohBxFQCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Teleradio Norte
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-T-aOB_KmAl8/XzgdcQW2MhI/AAAAAAAA4Vw/gUo6n9IYqVEfYX75LIxV6SGMThCJ55-WACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+"https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", Televisión del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+https://lh3.googleusercontent.com/-KTkAN2D6aBg/XzgeAkRU0XI/AAAAAAAA4WI/oO5KUB-W-6EMsCALKbOGQmS2EfuDvarUwCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", TNI 51
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", TV Montaña
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-mmWVzDuUeyY/XzgeRgAlzdI/AAAAAAAA4WU/JxhVhnhwZ2UH_5uM4HW6SPgiYKAzYkeaQCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", TV Plata
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-P7fhXDShrsg/XzgeXcKTOLI/AAAAAAAA4WY/o1eUo8UIoLQLe7kbztN1lUIoY_C0E8NAQCK8BGAsYHg/s0/2020-08-15.jpg
+ 
+#EXTINF:-1 group-title="", TVS TV
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-ki8jqcwmGP0/Xzgef3ebeoI/AAAAAAAA4Wc/Ulbicz-Ye8sSPGlzK7DxMOomCLnxa9tOgCK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", Vallevisión
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
+https://lh3.googleusercontent.com/-LJDxg-Z8Mtk/XzgeoUw6_aI/AAAAAAAA4Wg/HsIOdj5D9mYncbrV3kpb-1bCkPpSdeQJACK8BGAsYHg/s0/2020-08-15.png
+ 
+#EXTINF:-1 group-title="", espejo
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?PlaylistM3UCL
+https://i2.paste.pics/a157fcb0f29e1407aaca997c8564765a.png
