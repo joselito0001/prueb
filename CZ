@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Praha TV (1080p)
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",RetroMusicTV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Šláger Muzika
+https://stream-33.mazana.tv/slagr2.m3u
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Šláger Originál
+https://stream-6.mazana.tv/slagr.m3u
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",TV Natura [Not 24/7]
+https://media1.tvnatura.cz/live_out/1/live.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",Polar 2 TV
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",TV NOE
+https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",TV NOE+
+https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",ÚTV
+http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
