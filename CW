@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Bonce TV [Not 24/7]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 group-title="",Nos Païs [Not 24/7]
+http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 group-title="",TeleCuraçao
+http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 group-title="",TV Direct 13 [Not 24/7]
+https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 group-title="",VAM Vid's & More
+https://cur.watch/api/get_stream/vam/streann/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://seswa.bonce.tv/hls/bonceswa.m3u8
